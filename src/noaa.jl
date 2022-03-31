@@ -1,10 +1,3 @@
-#=
-Test:
-- Julia version: 1.1
-- Author: Konradrundfunk
-- Date: 2022-01-03
-=#
-# run display() when you want to display a plot
 using PyPlot
 using FileIO
 using DSP
