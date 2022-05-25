@@ -1,4 +1,3 @@
-using PyPlot 
+using WAV
 
-plot(sin,0,4pi)
-show()
+wavplay(1, [1,2,3,4,5,12,312,1,23,2,2,2,2,2,3,3,])
